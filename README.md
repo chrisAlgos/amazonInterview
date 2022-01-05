@@ -8,7 +8,7 @@ Most Popular questions in last 6 months
 - Maximum Units on a Truck
 - Count Binary Substrings
 - Flip String to Monotone Increasing (check)
-- The kth Factor of n
+- The kth Factor of n (check) 
 - Analyze User Website Visit Pattern
 
 Most Popular questions in last 1 year 
