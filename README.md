@@ -6,10 +6,10 @@ Most Popular questions in last 6 months
 - Search Suggestions System	
 - LRU Cache
 - Maximum Units on a Truck
-- Count Binary Substrings
+- Count Binary Substrings (check) 
 - Flip String to Monotone Increasing (check)
 - The kth Factor of n (check) 
-- Analyze User Website Visit Pattern
+- Analyze User Website Visit Pattern (check) 
 
 Most Popular questions in last 1 year 
 - Robot Bounded In Circle (check)
