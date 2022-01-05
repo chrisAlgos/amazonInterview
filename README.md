@@ -2,19 +2,19 @@
 
 Most Popular questions in last 6 months 
 - Count Unique Characters of All Substrings of a Given String
-- Reorder Data in Log Files
+- Reorder Data in Log Files (check)
 - Search Suggestions System	
 - LRU Cache
 - Maximum Units on a Truck
 - Count Binary Substrings
-- Flip String to Monotone Increasing
+- Flip String to Monotone Increasing (check)
 - The kth Factor of n
 - Analyze User Website Visit Pattern
 
 Most Popular questions in last 1 year 
-- Robot Bounded In Circle
+- Robot Bounded In Circle (check)
 - Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
-- Reorder Data in Log Files
+- Reorder Data in Log Files (check)
 - Search Suggestions System	
 - LRU Cache
 - Maximum Units on a Truck
