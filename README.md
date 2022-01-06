@@ -5,7 +5,7 @@ Most Popular questions in last 6 months
 - Reorder Data in Log Files (check)
 - Search Suggestions System	
 - LRU Cache
-- Maximum Units on a Truck
+- Maximum Units on a Truck (check) 
 - Count Binary Substrings (check) 
 - Flip String to Monotone Increasing (check)
 - The kth Factor of n (check) 
