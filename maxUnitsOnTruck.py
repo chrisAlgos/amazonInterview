@@ -1,33 +1,25 @@
-'''
-(MUST)
-https://leetcode.com/problems/maximum-units-on-a-truck/
-'''
 class Solution:
     def maximumUnits(self, boxTypes: List[List[int]], truckSize: int) -> int:
         
         
+        print(boxTypes, truckSize) # # of boxes, number of units in each box
+        # truckSize = number of boxes cannot exceed truckSize 
+
         heap = []
         
-        for i in range(len(boxTypes)): 
-            tup = (boxTypes[i][1]*-1, i, boxTypes[i][0])
-            heap.append(tup)
-        heapq.heapify(heap)
-        
-        maxUnits = 0 
-        while truckSize and len(heap) != 0: 
-            units, i, num = heapq.heappop(heap)
-            units *= -1
+        for box in boxTypes: 
+            numBoxes, units  = box 
+            heapq.heappush(heap, (units*-1, numBoxes))
             
-            if num < truckSize: 
-                truckSize -= num
-                maxUnits += (units*num)
-                num = 0 
-            else: 
-                num -= truckSize 
-                maxUnits += units*(truckSize)
-                truckSize = 0  
-                
-            if num != 0: 
-                heapq.heappush(heap, (units*-1, i, num))
+        maxUnits = 0 
+        while truckSize and heap: 
+            units, numBoxes = heapq.heappop(heap)
+            numBoxes = min(truckSize, numBoxes)
+            maxUnits += (units*-1)*numBoxes
+            truckSize -= numBoxes
+            numBoxes -= numBoxes 
+            if numBoxes != 0: 
+                heapq.heappush(heap, (units, numBoxes))
+            
+        return maxUnits
         
-        return maxUnits 
