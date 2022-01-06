@@ -5,24 +5,24 @@ Most Popular questions in last 6 months
 - Reorder Data in Log Files (check)
 - Search Suggestions System	
 - LRU Cache
-- Maximum Units on a Truck (check) 
-- Count Binary Substrings (check) 
-- Flip String to Monotone Increasing (check)
-- The kth Factor of n (check) 
-- Analyze User Website Visit Pattern (check) 
+- Maximum Units on a Truck (X) 
+- Count Binary Substrings (X) 
+- Flip String to Monotone Increasing (X)
+- The kth Factor of n (X) 
+- Analyze User Website Visit Pattern (X) 
 
 Most Popular questions in last 1 year 
-- Robot Bounded In Circle (check)
+- Robot Bounded In Circle (X)
 - Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts
-- Reorder Data in Log Files (check)
+- Reorder Data in Log Files (X)
 - Search Suggestions System	
 - LRU Cache
-- Maximum Units on a Truck
-- Minimum Cost to Connect Sticks
+- Maximum Units on a Truck (X)
+- Minimum Cost to Connect Sticks (X)
 - Concatenated Words
 - Number of Islands
-- Count Unique Characters of All Substrings of a Given String
-- Analyze User Website Visit Pattern
+- Count Unique Characters of All Substrings of a Given String (X) 
+- Analyze User Website Visit Pattern (X) 
 
 Most Popular Questions in last 2 years 
 - Reorder Data in Log Files
