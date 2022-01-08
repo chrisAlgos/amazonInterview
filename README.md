@@ -20,7 +20,7 @@ Most Popular questions in last 1 year
 - Maximum Units on a Truck (X)
 - Minimum Cost to Connect Sticks (X)
 - Concatenated Words
-- Number of Islands
+- Number of Islands (X) 
 - Count Unique Characters of All Substrings of a Given String (X) 
 - Analyze User Website Visit Pattern (X) 
 
