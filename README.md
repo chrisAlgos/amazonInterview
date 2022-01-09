@@ -22,16 +22,16 @@ Most Popular questions in last 1 year
 
 Most Popular Questions in last 2 years 
 - Critical Connections in a Network (DO) 
-- Number of Islands (DO - 75 BLIND) 
-- Partition Labels (DO) 
-- Rotting Oranges (DO) 
-- Top K Frequent Words (DO - 75 BLIND) 
-- Minimum Difficulty of a Job Schedule (DO) 
-- Prison Cells After N Days (DO) 
-- Most Common Word (DO) 
-- Word Ladder (DO) 
-- Find Median from Data Stream 
-- LFU Cache (DO)
-- Merge k Sorted Lists (DO - 75 BLIND) 
+- Number of Islands (X) 
+- Partition Labels
+- Rotting Oranges (X) 
+- Top K Frequent Words (X) 
+- Minimum Difficulty of a Job Schedule 
+- Prison Cells After N Days 
+- Most Common Word (X) 
+- Word Ladder
+- Find Median from Data Stream (X)
+- LFU Cache
+- Merge k Sorted Lists (X) 
 - Copy List with Random Pointer (X)
 
