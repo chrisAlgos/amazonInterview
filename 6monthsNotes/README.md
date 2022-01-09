@@ -16,9 +16,13 @@
     Then, add node with key & value to the cache (and to LL). 
     If cache overflows, remove LRU from the cache (and from LL).
 
-
 <b> searchSuggestions </b> 
-- 1. sort products 
-- 2. loop through searchWord from the 1st index up to len(searchWord)+1 (exclusive) and get prefix 
-  - i. prefix = searchWord[:i] and loop through each product in products. If product.startswith(prefix), then add to lst. 
-  - ii. Break out of loop if len(lst) == 3, and add lst to res 
+- loop through searchWord starting from i=1 and get prefix = searchWord[:i]. Loop through products and add any product.startswith(prefix) to lst. 
+- break out of loop when len(lst)==3 and add lst to res. 
+
+<b> Reorder Data in Log Files </b> 
+- divide logs into digits and letters (check 1st element.isdigit() after log.split(" ")) 
+- sort letters by identifier then by the rest 
+    - letters.sort(key=lambda log: log.split(" ")[0]) 
+    - letters.sort(key=lambda log: log.split(" ")[1:]) 
+- return letters+digits
