@@ -15,3 +15,10 @@
     First, it checks if key exists in cache. If it does, remove key to node mapping from the cache (and from LL).
     Then, add node with key & value to the cache (and to LL). 
     If cache overflows, remove LRU from the cache (and from LL).
+
+
+<b> searchSuggestions </b> 
+- 1. sort products 
+- 2. loop through searchWord from the 1st index up to len(searchWord)+1 (exclusive) and get prefix 
+  - i. prefix = searchWord[:i] and loop through each product in products. If product.startswith(prefix), then add to lst. 
+  - ii. Break out of loop if len(lst) == 3, and add lst to res 
