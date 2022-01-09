@@ -19,7 +19,7 @@ Additional:
 - expression tree with eval function 
 - min swaps to group all 1's together
 - meeting rooms ii 
-- merge interals 
+- merge intervals 
 - least number of unique integers after k removals 
 - robot bounded in circle 
 - partition labels 
