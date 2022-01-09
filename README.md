@@ -3,8 +3,8 @@
 Most Popular questions in last 6 months 
 - Count Unique Characters of All Substrings of a Given String (check -- not optimal though) 
 - Reorder Data in Log Files (check)
-- Search Suggestions System	
-- LRU Cache
+- Search Suggestions System	(X) 
+- LRU Cache (X) 
 - Maximum Units on a Truck (X) 
 - Count Binary Substrings (X) 
 - Flip String to Monotone Increasing (X)
