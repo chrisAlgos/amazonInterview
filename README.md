@@ -46,5 +46,5 @@ Most Popular Questions in last 2 years
 - Maximum Units on a Truck (X) 
 - LFU Cache (DO)
 - Merge k Sorted Lists (DO - 75 BLIND) 
-- Copy List with Random Pointer (DO)
+- Copy List with Random Pointer (X)
 - Count Unique Characters of All Substrings of a Given String (X) 
