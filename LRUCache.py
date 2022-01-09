@@ -3,9 +3,10 @@ https://leetcode.com/problems/lru-cache/
 (MUST) 
 https://www.youtube.com/watch?v=7ABFKPK2hD4
 
+########### IDEA: ##################
 What is node? Node is just an object that stores key and its associated value. It has prev, next pointers. 
 What is cache? maps key to node that contains key & value 
-What is self.left, self.right? They indicate pointers of LRU and MRU 
+What is self.left, self.right? They indicate pointers of LRU and MRU in LL.
 What is LL? keeps relative ordering of nodes based on LRU policy. 
 
 remove(node): removes node from the LL that keeps track of relative order of (key, value) nodes based on LRU policy 
