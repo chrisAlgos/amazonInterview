@@ -15,7 +15,7 @@ Most Popular questions in last 6 months
 Additional: 
 - word search ii (do word search as well)
 - trapping rain water 
-- connecting cities with min cost 
+- connecting cities with min cost (kruskal's algo) 
 - expression tree with eval function 
 - min swaps to group all 1's together (X) 
 - meeting rooms ii 
