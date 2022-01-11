@@ -52,16 +52,16 @@ Most Popular Questions in last 2 years
 - Copy List with Random Pointer (X)
 
 75 Blind List Questions:
-Two Sum 
-Trapping Rain Water 
-Number of Islands 
-Merge Intervals 
-Median of Two Sorted Arrays 
-Meeting Rooms II 
-Group Anagrams 
-Merge k Sorted LIsts 
-Word Search 
-Word Search II 
-Find Median from Data Stream 
-Course Schedule 
-Course Schedule II 
+- Two Sum 
+- Trapping Rain Water 
+- Number of Islands 
+- Merge Intervals 
+- Median of Two Sorted Arrays 
+- Meeting Rooms II 
+- Group Anagrams 
+- Merge k Sorted LIsts 
+- Word Search 
+- Word Search II 
+- Find Median from Data Stream 
+- Course Schedule 
+- Course Schedule II 
