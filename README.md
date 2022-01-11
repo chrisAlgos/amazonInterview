@@ -17,7 +17,7 @@ Additional:
 - trapping rain water 
 - connecting cities with min cost 
 - expression tree with eval function 
-- min swaps to group all 1's together
+- min swaps to group all 1's together (x) 
 - meeting rooms ii 
 - merge intervals 
 - least number of unique integers after k removals 
