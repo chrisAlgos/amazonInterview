@@ -52,7 +52,7 @@ Most Popular Questions in last 2 years
 - Copy List with Random Pointer (X)
 
 75 Blind List Questions:
-- Two Sum 
+- Two Sum (x)
 - Trapping Rain Water 
 - Number of Islands 
 - Merge Intervals 
