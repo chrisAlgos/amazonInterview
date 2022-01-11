@@ -58,7 +58,7 @@ Most Popular Questions in last 2 years
 - Merge Intervals 
 - Median of Two Sorted Arrays 
 - Meeting Rooms II 
-- Group Anagrams 
+- Group Anagrams (x)
 - Merge k Sorted LIsts 
 - Word Search 
 - Word Search II 
