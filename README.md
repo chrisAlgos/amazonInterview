@@ -22,7 +22,7 @@ Additional:
 - merge intervals (X) 
 - least number of unique integers after k removals (X) 
 - robot bounded in circle (X) 
-- partition labels 
+- partition labels (X) 
 - number of islands (X) 
 - self diminishing valued colored balls 
 - min cost to connect sticks (X) 
