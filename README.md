@@ -13,19 +13,19 @@ Most Popular questions in last 6 months
 - Range Addition 
 
 Additional: 
-- word search ii (do word search as well)
-- trapping rain water 
+- word search ii (do word search as well) (X) 
+- trapping rain water (X)  
 - connecting cities with min cost (kruskal's algo) 
 - expression tree with eval function 
 - min swaps to group all 1's together (X) 
-- meeting rooms ii 
-- merge intervals 
-- least number of unique integers after k removals 
-- robot bounded in circle 
+- meeting rooms ii (X) 
+- merge intervals (X) 
+- least number of unique integers after k removals (X) 
+- robot bounded in circle (X) 
 - partition labels 
-- number of islands 
+- number of islands (X) 
 - self diminishing valued colored balls 
-- min cost to connect sticks 
+- min cost to connect sticks (X) 
 
 Most Popular questions in last 1 year 
 - Robot Bounded In Circle (X)
